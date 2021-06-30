@@ -1,0 +1,6 @@
+# Output products list for <dp_sram_output>
+dp_sram_output.edn
+dp_sram_output.v
+dp_sram_output.veo
+dp_sram_output.xco
+dp_sram_output_flist.txt
